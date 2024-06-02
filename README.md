@@ -1,4 +1,4 @@
-### Client
+# Client
 | Client ID     | oidc-client        |
 |---------------|--------------------|
 | Client Secret | secret             |
