@@ -7,5 +7,6 @@
 
 ---
 
+# Well-Known Endpoint
 
 `http://localhost:9000/.well-known/oauth-authorization-server`
